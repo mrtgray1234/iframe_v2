@@ -1,0 +1,15 @@
+{
+  "id": "iframe_v2",
+  "name": "iframe_v2",
+  "version": "1.0.0",
+  "beta": true,
+  "personalPlugin": true,
+  "description": "Iframe with ability to trigger space events upon interaction",
+  "longDescription": "This iframe let's you trigger a portal event once a particular trigger occurs in the webframe. ",
+  "configuration": "Install plugin. Set up regular webframe.",
+  "category": "Navigation",
+  "businessId": "XaPduI2qm8",
+  "price": 0,
+  "releaseNotes": "nada",
+  "entrypoint": ""
+}
